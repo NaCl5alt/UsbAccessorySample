@@ -1,5 +1,5 @@
 # for mac
-PREFIX=/usr/local/Cellar/libusb/1.0.22
+PREFIX=/opt/homebrew/Cellar/libusb/1.0.26
 USB=usb-1.0
 
 # for linux
